@@ -1,0 +1,13 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "LA REVOLUCIÓN EN EL CUERPO"
+subtitle: |
+ Historia ilustrada de la vestimenta en Buenos Aires de 1810 a 1850
+content : |
+  Una investigación ilustrada con atención a los detalles y usos de las prendas, desde la perspectiva de lo cotidiano, sensorial e íntimo. Rescatando la belleza y texturas de la indumentaria construida con labor manual.</br></br>
+  A gusto, <span class="demo-controls">appearance with a number of modifiers</span>.
+button:
+  label : "Get Started"
+  link : "#first"
+image : "images/banner.jpg"
+
