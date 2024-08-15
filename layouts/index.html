@@ -1,13 +1,12 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
-	{{ partial "spotlight" site.Data.spotlight1 }}
-	{{ partial "spotlight" site.Data.spotlight2 }}
-	{{ partial "spotlight" site.Data.spotlight3 }}
-	{{ partial "gallery" site.Data.gallery }}
-	{{ partial "items" site.Data.items }}
-	{{ partial "elements" . }}
-	{{ partial "elements_reference" . }}
+	{{ partial "spotlight" site.Data.capitulo_1 }}
+	{{ partial "gallery" site.Data.gallery_cap_1 }}
+	{{ partial "items" site.Data.separador }}
+	{{ partial "spotlight" site.Data.capitulo_2 }}
+	{{ partial "gallery" site.Data.gallery_cap_2 }}
+	{{ partial "items" site.Data.colaboraron }}
 	{{ partial "footer" . }}
 
 {{ end }}
