@@ -32,16 +32,17 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "La revolución en el cuerpo: Historia ilustrada de la vestimenta en Buenos Aires de 1810 a 1850, por Rosario Oliva"
   logo = "images/banner.jpg"
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
-  email = "caressofsteel@protonmail.com"
-  instagram = "https://instagram.com"
-  linkedin = "https://linkedin.com"
+  github = "https://github.com/"
+  twitter = "https://twitter.com/chezrosario"
+  email = "chezrosario@gmail.com"
+  instagram = "https://www.instagram.com/rosarioolivailustradora/"
+  linkedin = "https://www.linkedin.com/in/rosario-oliva-599aab1a/"
+  behance = "https://www.behance.net/rosarioliva"
   telegram = "https://telegram.org"
 
 [Params.asset]
