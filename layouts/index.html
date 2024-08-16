@@ -1,12 +1,12 @@
 {{ define "main" }}
 
 	{{ partial "banner" site.Data.banner }}
+	{{ partial "video" site.Data.video }}
 	{{ partial "spotlight" site.Data.capitulo_1 }}
-	{{ partial "gallery" site.Data.gallery_cap_1 }}
-	{{ partial "items" site.Data.separador }}
+	{{ partial "gallery_mod" site.Data.gallery_cap_1 }}
 	{{ partial "spotlight" site.Data.capitulo_2 }}
-	{{ partial "gallery" site.Data.gallery_cap_2 }}
-	{{ partial "items" site.Data.colaboraron }}
+	{{ partial "gallery_mod" site.Data.gallery_cap_2 }}
+	{{ partial "items" site.Data.agradecimientos }}
 	{{ partial "footer" . }}
 
 {{ end }}

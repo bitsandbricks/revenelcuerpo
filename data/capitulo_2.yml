@@ -1,9 +1,6 @@
 ####################### Spotlight #########################
 style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
-title : "Spotlight"
+title : "1830 - 1850: La identidad política se hace color"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  Tras la independencia comienza un intenso debate sobre el modelo de gobierno ideal, que se acentúa a finales de los años 1820. De un lado los "Unitarios", que buscan centralizar el poder en Buenos Aires, y del otro, los "Federales", a favor de una confederación de provincias autónomas. Esta división política se refleja incluso en la vestimenta: los Federales, con su estilo hispano-criollo teñido de rojo en honor a Juan Manuel de Rosas, y los Unitarios, usando el azul celeste. Aunque muchas prendas muestran influencia europea, los detalles son locales y personales. En la moda femenina, esto se manifiesta en un cambio de silueta: vuelven las cinturas ajustadas con corsés, faldas largas y tobillos ocultos.
 image: "images/capitulo_2_Imagen_fondo_blanco_sq.png"

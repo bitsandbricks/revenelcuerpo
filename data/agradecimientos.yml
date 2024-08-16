@@ -1,0 +1,34 @@
+title : "Agradecimientos"
+content: 
+style: "style3 medium onscroll-fade-in"
+items:
+  # feature item loop
+  - name : "FONDO NACIONAL DE LAS ARTES"
+    content : "Este proyecto fue realizado con el apoyo del Fondo Nacional de las Artes"
+    logo: "images/logos/FNA.png"
+    link: "https://www.instagram.com/fnaargentina/"
+
+  # feature item loop
+  - name : "ROSANA LEONARDI | Cátedra Historia de la Indumentaria - FADU - UBA"
+    logo: "images/logos/CL.png"
+    link: "https://catedraleonardi.com.ar/v2/"
+
+  # feature item loop
+  - name : "PROGRAMA DE ACTUALIZACIÓN EN ILUSTRACIÓN PROFESIONAL FADU - UBA"
+    logo: "images/logos/PAIP.png"
+    link: "https://www.instagram.com/ilusposgrado/"
+
+  # feature item loop
+  - name : "MUSEO NACIONAL DE LA HISTORIA DEL TRAJE"
+    logo: "images/logos/MDT.png"
+    link: "https://www.instagram.com/museodeltrajeba/"
+
+  # feature item loop
+  - name : "MUSEO ENRIQUE UDAONDO"
+    logo: "images/logos/MEU.png"
+    link: "https://www.instagram.com/museoudaondopba/"
+
+  # feature item loop
+  - name : "MUSEO HISTÓRICO NACIONAL"
+    logo: "images/logos/MHN.png"
+    link: "https://www.instagram.com/mhnarg/"

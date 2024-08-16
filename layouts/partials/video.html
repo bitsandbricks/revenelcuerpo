@@ -1,0 +1,6 @@
+<!-- Spotlight -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div  style="width:100%">
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+    </div>
+</section>
