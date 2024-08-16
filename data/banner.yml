@@ -1,11 +1,8 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-center image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style1 orient-left content-align-center image-position-center fullscreen"
 title : "LA REVOLUCIÓN EN EL CUERPO"
 subtitle: |
  Historia ilustrada de la vestimenta en Buenos Aires de 1810 a 1850
 content : |
   Investigación & Arte por <a target="_blank" href="https://www.behance.net/rosarioliva">Rosario Oliva</a>, desde la perspectiva de lo cotidiano, sensorial e íntimo. Rescatando la belleza y texturas de la indumentaria construida con labor manual en tiempos de cambio, esperanza y violencia.</br></br>
-button:
-  label : "el libro por dentro"
-  link : "#video"
 image : "images/banner.jpg"

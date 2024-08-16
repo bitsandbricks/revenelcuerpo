@@ -1,5 +1,5 @@
 id: "gallery_cap_2"
-style: "style2 big lightbox onscroll-fade-in"
+style: "style2 big lightbox"
 pictures:
   - image: "images/gallery/fulls/CAPITULO2_imagen_1_mujer.jpg"
     thumb: "images/gallery/thumbs/CAPITULO2_imagen_1_mujer-thumb.png"
